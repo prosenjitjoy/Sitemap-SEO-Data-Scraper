@@ -1,0 +1,4 @@
+sitemap_url: "https://victoriousseo.com/page-sitemap.xml"
+crawler_concurrency: 5
+scraper_concurrency: 5
+request_timeout: 10
